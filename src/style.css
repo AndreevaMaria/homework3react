@@ -1,0 +1,32 @@
+header {
+    padding: 10px;
+    background-color: rgb(201, 105, 50);
+    color: white;
+}
+h4 {
+    margin-left: 30px;
+}
+
+.personal {
+    margin: 30px;
+    font-size: 24px;
+}
+
+tr {
+    display: grid;
+    grid-template-columns: 300px auto;
+    margin-top: 20px;
+}
+
+.inp {
+    float: left;
+    font-style: italic;
+}
+
+footer {
+    padding: 10px;
+    background-color:  rgb(145, 56, 9);
+    color: white;
+    font-size: 18px;
+    margin-top: 20px;
+}
